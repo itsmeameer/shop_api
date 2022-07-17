@@ -1,1 +1,2 @@
-# shop_api
+# mighty-shop-mern
+ 
